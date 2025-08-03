@@ -8,5 +8,5 @@ Hello there, this repo is created sololy for the purpose of learning not to chea
 
 | Question Id |   Question name   |                      question link                       |  answer link  |
 | :---------: | :---------------: | :------------------------------------------------------: | :-----------: |
-|     20      | Valid Parentheses | [link](https://leetcode.com/problems/Valid Parentheses/) | [link](./20/) |
+|     20      | Valid Parentheses | [link](https://leetcode.com/problems/valid_parentheses/) | [link](./20/) |
 |             |                   |                                                          |               |
