@@ -6,7 +6,7 @@ Hello there, this repo is created sololy for the purpose of learning not to chea
 
 # Table of Content
 
-| Question Id |       Question name       |                          question link                           |  answer link  |
-| :---------: | :-----------------------: | :--------------------------------------------------------------: | :-----------: |
-|     11      | Container with Most Water | [link](https://leetcode.com/problems/container-with-most-water/) | [link](./11/) |
-|             |                           |                                                                  |               |
+| Question Id |   Question name   |                      question link                       |  answer link  |
+| :---------: | :---------------: | :------------------------------------------------------: | :-----------: |
+|     20      | Valid Parentheses | [link](https://leetcode.com/problems/Valid Parentheses/) | [link](./20/) |
+|             |                   |                                                          |               |
